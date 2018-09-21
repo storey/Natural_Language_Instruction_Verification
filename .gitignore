@@ -1,0 +1,6 @@
+__pycache__/*
+.DS_Store
+*/.DS_Store
+data/test_all.json
+data/train_all.json
+data/dev_all.json
